@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\curso-C#\\Proyecto6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B19399ED-DFD0-421F-B9A1-FDA54C94101A}|Proyecto6\\Proyecto6.csproj|c:\\users\\user\\desktop\\curso-c#\\proyecto6\\proyecto6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19399ED-DFD0-421F-B9A1-FDA54C94101A}|Proyecto6\\Proyecto6.csproj|solutionrelative:proyecto6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\curso-C#\\Proyecto6\\Proyecto6\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto6\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\curso-C#\\Proyecto6\\Proyecto6\\Program.cs",
+              "RelativeToolTip": "Proyecto6\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:07:31.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

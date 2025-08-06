@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\curso-C#\Proyecto12\Proyecto12\bin\Debug\Proyecto12.exe.config
+C:\Users\User\Desktop\curso-C#\Proyecto12\Proyecto12\bin\Debug\Proyecto12.exe
+C:\Users\User\Desktop\curso-C#\Proyecto12\Proyecto12\bin\Debug\Proyecto12.pdb
+C:\Users\User\Desktop\curso-C#\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\curso-C#\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\curso-C#\Proyecto12\Proyecto12\obj\Debug\Proyecto12.exe
+C:\Users\User\Desktop\curso-C#\Proyecto12\Proyecto12\obj\Debug\Proyecto12.pdb
+C:\Users\User\Desktop\curso-C#\Proyecto12\Proyecto12\obj\Debug\Proyecto12.exe.config

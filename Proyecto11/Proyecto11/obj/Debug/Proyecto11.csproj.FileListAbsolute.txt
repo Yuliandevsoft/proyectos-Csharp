@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\curso-C#\Proyecto11\Proyecto11\bin\Debug\Proyecto11.exe.config
+C:\Users\User\Desktop\curso-C#\Proyecto11\Proyecto11\bin\Debug\Proyecto11.exe
+C:\Users\User\Desktop\curso-C#\Proyecto11\Proyecto11\bin\Debug\Proyecto11.pdb
+C:\Users\User\Desktop\curso-C#\Proyecto11\Proyecto11\obj\Debug\Proyecto11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\curso-C#\Proyecto11\Proyecto11\obj\Debug\Proyecto11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\curso-C#\Proyecto11\Proyecto11\obj\Debug\Proyecto11.exe
+C:\Users\User\Desktop\curso-C#\Proyecto11\Proyecto11\obj\Debug\Proyecto11.pdb
+C:\Users\User\Desktop\curso-C#\Proyecto11\Proyecto11\obj\Debug\Proyecto11.exe.config

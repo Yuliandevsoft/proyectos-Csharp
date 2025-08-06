@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\curso-C#\proyecto7\proyecto7\bin\Debug\proyecto7.exe.config
+C:\Users\User\Desktop\curso-C#\proyecto7\proyecto7\bin\Debug\proyecto7.exe
+C:\Users\User\Desktop\curso-C#\proyecto7\proyecto7\bin\Debug\proyecto7.pdb
+C:\Users\User\Desktop\curso-C#\proyecto7\proyecto7\obj\Debug\proyecto7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\curso-C#\proyecto7\proyecto7\obj\Debug\proyecto7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\curso-C#\proyecto7\proyecto7\obj\Debug\proyecto7.exe
+C:\Users\User\Desktop\curso-C#\proyecto7\proyecto7\obj\Debug\proyecto7.pdb
+C:\Users\User\Desktop\curso-C#\proyecto7\proyecto7\obj\Debug\proyecto7.exe.config

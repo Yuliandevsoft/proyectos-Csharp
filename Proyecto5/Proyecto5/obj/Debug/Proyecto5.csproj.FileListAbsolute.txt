@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\curso-C#\Proyecto5\Proyecto5\bin\Debug\Proyecto5.exe.config
+C:\Users\User\Desktop\curso-C#\Proyecto5\Proyecto5\bin\Debug\Proyecto5.exe
+C:\Users\User\Desktop\curso-C#\Proyecto5\Proyecto5\bin\Debug\Proyecto5.pdb
+C:\Users\User\Desktop\curso-C#\Proyecto5\Proyecto5\obj\Debug\Proyecto5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\curso-C#\Proyecto5\Proyecto5\obj\Debug\Proyecto5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\curso-C#\Proyecto5\Proyecto5\obj\Debug\Proyecto5.exe
+C:\Users\User\Desktop\curso-C#\Proyecto5\Proyecto5\obj\Debug\Proyecto5.pdb
