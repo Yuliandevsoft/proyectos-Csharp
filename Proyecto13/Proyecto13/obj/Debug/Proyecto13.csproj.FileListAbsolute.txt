@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\curso-Csharp\Proyecto13\Proyecto13\bin\Debug\Proyecto13.exe.config
+C:\Users\User\Desktop\curso-Csharp\Proyecto13\Proyecto13\bin\Debug\Proyecto13.exe
+C:\Users\User\Desktop\curso-Csharp\Proyecto13\Proyecto13\bin\Debug\Proyecto13.pdb
+C:\Users\User\Desktop\curso-Csharp\Proyecto13\Proyecto13\obj\Debug\Proyecto13.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\curso-Csharp\Proyecto13\Proyecto13\obj\Debug\Proyecto13.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\curso-Csharp\Proyecto13\Proyecto13\obj\Debug\Proyecto13.exe
+C:\Users\User\Desktop\curso-Csharp\Proyecto13\Proyecto13\obj\Debug\Proyecto13.pdb
+C:\Users\User\Desktop\curso-Csharp\Proyecto13\Proyecto13\obj\Debug\Proyecto13.exe.config
