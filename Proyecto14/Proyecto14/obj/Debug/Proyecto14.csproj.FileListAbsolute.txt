@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\curso-Csharp\Proyecto14\Proyecto14\bin\Debug\Proyecto14.exe.config
+C:\Users\User\Desktop\curso-Csharp\Proyecto14\Proyecto14\bin\Debug\Proyecto14.exe
+C:\Users\User\Desktop\curso-Csharp\Proyecto14\Proyecto14\bin\Debug\Proyecto14.pdb
+C:\Users\User\Desktop\curso-Csharp\Proyecto14\Proyecto14\obj\Debug\Proyecto14.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\curso-Csharp\Proyecto14\Proyecto14\obj\Debug\Proyecto14.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\curso-Csharp\Proyecto14\Proyecto14\obj\Debug\Proyecto14.exe
+C:\Users\User\Desktop\curso-Csharp\Proyecto14\Proyecto14\obj\Debug\Proyecto14.pdb
+C:\Users\User\Desktop\curso-Csharp\Proyecto14\Proyecto14\obj\Debug\Proyecto14.exe.config
