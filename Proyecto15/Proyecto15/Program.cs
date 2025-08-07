@@ -10,6 +10,7 @@ namespace Proyecto15
     {
         static void Main(string[] args)
         {
+            int num1, num2 ,num3;
         }
     }
 }
