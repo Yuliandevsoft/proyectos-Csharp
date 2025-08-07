@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\curso-C#\\Proyecto12\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\curso-Csharp\\Proyecto12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1BA2283-6A3E-4DFA-94A4-121F220273BF}|Proyecto12\\Proyecto12.csproj|c:\\users\\user\\desktop\\curso-c#\\proyecto12\\proyecto12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1BA2283-6A3E-4DFA-94A4-121F220273BF}|Proyecto12\\Proyecto12.csproj|c:\\users\\user\\desktop\\curso-csharp\\proyecto12\\proyecto12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1BA2283-6A3E-4DFA-94A4-121F220273BF}|Proyecto12\\Proyecto12.csproj|solutionrelative:proyecto12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\curso-C#\\Proyecto12\\Proyecto12\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\curso-Csharp\\Proyecto12\\Proyecto12\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto12\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\curso-C#\\Proyecto12\\Proyecto12\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\curso-Csharp\\Proyecto12\\Proyecto12\\Program.cs",
               "RelativeToolTip": "Proyecto12\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T14:58:56.577Z",
               "EditorCaption": ""
