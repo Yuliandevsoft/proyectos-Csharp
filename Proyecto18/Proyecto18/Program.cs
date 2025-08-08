@@ -22,6 +22,44 @@ namespace Proyecto18
             //Nivel medio: Porcentaje >= 75 % y < 90 %.
             //Nivel regular: Porcentaje >= 50 % y < 75 %.
             //Fuera de nivel: Porcentaje < 50 %.
+
+            int totalp, totalco, porcentaje;
+
+            Console.Write("Digite la cantidad de preguntas: ");
+            totalp = int.Parse(Console.ReadLine());
+            Console.Write("Digite el total  de preguntas correctas: ");
+            totalco = int.Parse(Console.ReadLine());
+
+            porcentaje = (totalco * 100 / totalp);
+
+            if (porcentaje >= 90)
+            {
+                Console.WriteLine("Nivel máximo");
+            }
+            else
+            {
+                if (porcentaje >= 75)
+                {
+                    Console.WriteLine("Nivel Medio");
+                }
+                else
+                {
+                    if (porcentaje >= 50)
+                    {
+                        Console.WriteLine("Nivel regular");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Fuera de Nivel");
+                    }
+                    Console.ReadKey();
+                }
+            }
+
+
+
+
+
         }
     }
 }
