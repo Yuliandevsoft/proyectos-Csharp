@@ -20,7 +20,7 @@ namespace Proyecto28
                 Console.Write(x);
                 Console.Write(" - ");
                 // x = x + 1;
-                //otra forma 
+                //otra forma x++
                 x = x + 2;
             }
             Console.ReadKey();
