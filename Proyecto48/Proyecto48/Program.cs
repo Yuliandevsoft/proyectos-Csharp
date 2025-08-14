@@ -17,36 +17,63 @@ namespace Proyecto48
             //b) Cantidad de triángulos de cada tipo.
             //c) Tipo de triángulo que posee menor cantidad.
 
-            int cantidad, lado, equilatero = 0, isosceles = 0, escaleno = 0;
+            int cantidad, lado1, lado2, lado3, equilatero = 0, isosceles = 0, escaleno = 0;
 
 
             Console.Write("Ingrese cuantos triangulos va a crear: ");
+            Console.WriteLine("");
             cantidad = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i < cantidad; i++)
+            for (int i = 1; i <= cantidad; i++)
             {
                 Console.Write($"Ingrese el primer lado del triangulo {i} : ");
-                lado = int.Parse(Console.ReadLine());
+                lado1 = int.Parse(Console.ReadLine());
                 Console.Write($"Ingrese el segundo lado del triangulo {i} : ");
-                lado = int.Parse(Console.ReadLine());
+                lado2 = int.Parse(Console.ReadLine());
                 Console.Write($"Ingrese el tercer lado del triangulo {i} : ");
-                lado = int.Parse(Console.ReadLine());
+                lado3 = int.Parse(Console.ReadLine());
 
-                if (lado == lado && lado == lado) Console.WriteLine("de tipo Equilátero"); equilatero++;
-                if (lado == lado && lado != lado) Console.WriteLine("de tipo Isósceles"); isosceles++; 
-                else Console.WriteLine("de tipo  Escaleno"); escaleno++;
+                if (lado1 == lado2 && lado2 == lado3 )
+                {
+                    Console.WriteLine("Es equilátero");
+                    equilatero++;
+                }else
+                {
+                    if(lado1 != lado2 && lado2 != lado3)
+                    {
+                        Console.WriteLine("Es escaleno");
+                        escaleno++;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Es isósceles");
+                        isosceles++;
 
-
+                    }
+                }
 
             }
             Console.WriteLine("---------------Cantidad de triángulos de cada tipo------------- \n ");
-            Console.WriteLine("Triangulo es de tipo Equilátero: " + equilatero);
-            Console.WriteLine("Triangulo es de tipo Isósceles: " + isosceles);
-            Console.WriteLine("Triangulo es de tipo Escaleno: " + escaleno);
-            Console.ReadKey();
-
-
-
+            Console.WriteLine("Triangulos de tipo Equilátero: " + equilatero);
+            Console.WriteLine("Triangulos de tipo Isósceles: " + isosceles);
+            Console.WriteLine("Triangulos de tipo Escaleno: " + escaleno);
+            Console.WriteLine("--------------- Tipo de triángulo que posee menor cantidad------------- \n ");
+            if (equilatero < isosceles && equilatero < escaleno)
+            {
+                Console.WriteLine(" Es el Equilátero");
+            }
+            else
+            {
+                if(equilatero > isosceles && isosceles < escaleno)
+                {
+                    Console.WriteLine(" Es el Isósceles");
+                }
+                else
+                {
+                    Console.WriteLine(" Es el Escaleno");
+                }
+            }
+                Console.ReadKey();
         }
     }
 }
