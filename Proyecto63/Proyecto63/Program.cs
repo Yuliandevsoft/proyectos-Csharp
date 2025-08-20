@@ -22,18 +22,20 @@ namespace Proyecto63
             nombre = Console.ReadLine();
             Console.WriteLine("Ingrese sueldo: ");
             sueldo = int.Parse(Console.ReadLine());
+            Console.WriteLine("");
             Impuestos();
         }
 
         public void Impuestos()
         {
-            if (sueldo > 3000) Console.WriteLine("Debe pagar impuestos");
-            else Console.WriteLine("No debe pagar impuestos");
+            if (sueldo > 3000) Console.WriteLine("Debe pagar impuestos, su sueldo es de: " + sueldo);
+            else Console.WriteLine("No debe pagar impuestos, su sueldo es de: " + sueldo);
         }
         static void Main(string[] args)
         {
             Empleado empleado = new Empleado();
             empleado.Inicializar();
+            Console.ReadKey();
         }
     }
 }
