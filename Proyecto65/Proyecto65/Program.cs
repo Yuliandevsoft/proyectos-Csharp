@@ -29,21 +29,19 @@ namespace Proyecto65
         }
             public void Calcular(int v)
         {
-            for (int n = 1; n <= 12; n++) 
-                for (int i = v; i <= v * 12; i = i + v)
+            for (int n = 1; n <= 12; n++)
             {
-
-                Console.Write(n + " x " + n + " = " + i);
-                //Console.WriteLine(" = " + i);
+                int resultado = v * n;
+                Console.WriteLine(v + " x " + n + " = " + resultado);
             }
             Console.WriteLine();
-
         }
-        
+
         static void Main(string[] args)
         {
             TablaMultiplicar tablaMul1 = new TablaMultiplicar();
             tablaMul1.CargarValor();
+            Console.WriteLine("Presiona enter dos veces para salir...");
             Console.ReadKey();
         }
     }
