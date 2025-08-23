@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 //B, cada curso cuenta con 5 alumnos.
 //Realizar un programa que muestre el curso que obtuvo el mayor promedio general.
 
-namespace Proyeco72
+namespace Proyecto72
 {
     internal class PrimerParcial
     {
@@ -61,7 +61,7 @@ namespace Proyeco72
             promedio[0] = Suma[0] / 5;
             promedio[1] = Suma[1] / 5;
 
-            if(promedio[0] > promedio[1])
+            if (promedio[0] > promedio[1])
             {
                 Console.WriteLine("El promedio mayor general lo tiene el curso A");
             }
@@ -69,7 +69,7 @@ namespace Proyeco72
             {
                 Console.WriteLine("El promedio mayor general lo tiene el curso B");
             }
-           
+
             Console.WriteLine("El total de promedio del curso A es:" + promedio[0]);
             Console.WriteLine("El total de promedio del curso B es:" + promedio[1]);
         }
